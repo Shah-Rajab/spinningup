@@ -1,3 +1,6 @@
+**A fork for running pybullet for personal experiments.**
+
+
 **Status:** Maintenance (expect bug fixes and minor updates)
 
 Welcome to Spinning Up in Deep RL! 
